@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MythicalBeast47
-- 👀 I’m interested in saving America
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on Led Zeppelin IX
+- 👀 I’m interested in coding full time
+- 🌱 I’m currently learning C# and SQL
 - 📫 How to reach me - discord EL#9965
 
 <!---
